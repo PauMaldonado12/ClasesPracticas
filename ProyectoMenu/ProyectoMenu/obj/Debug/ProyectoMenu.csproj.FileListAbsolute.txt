@@ -1,0 +1,10 @@
+D:\ProyectoMenu\ProyectoMenu\bin\Debug\ProyectoMenu.exe.config
+D:\ProyectoMenu\ProyectoMenu\bin\Debug\ProyectoMenu.exe
+D:\ProyectoMenu\ProyectoMenu\bin\Debug\ProyectoMenu.pdb
+D:\ProyectoMenu\ProyectoMenu\obj\Debug\ProyectoMenu.csprojResolveAssemblyReference.cache
+D:\ProyectoMenu\ProyectoMenu\obj\Debug\ProyectoMenu.frmPrincipal.resources
+D:\ProyectoMenu\ProyectoMenu\obj\Debug\ProyectoMenu.Properties.Resources.resources
+D:\ProyectoMenu\ProyectoMenu\obj\Debug\ProyectoMenu.csproj.GenerateResource.Cache
+D:\ProyectoMenu\ProyectoMenu\obj\Debug\ProyectoMenu.exe
+D:\ProyectoMenu\ProyectoMenu\obj\Debug\ProyectoMenu.pdb
+D:\ProyectoMenu\ProyectoMenu\obj\Debug\ProyectoMenu.frmUsuario.resources
